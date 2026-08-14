@@ -1,5 +1,7 @@
 # Pocket TTS
 
+[English](README.md) · [한국어](README_kor.md) · [한국어 학습 가이드](guide/README.md)
+
 <img width="1446" height="622" alt="pocket-tts-logo-v2-transparent" src="https://github.com/user-attachments/assets/637b5ed6-831f-4023-9b4c-741be21ab238" />
 
 A lightweight text-to-speech (TTS) application designed to run efficiently on CPUs.
